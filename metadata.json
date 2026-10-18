@@ -1,0 +1,6 @@
+{
+  "name": "Persian Gemini TTS Studio",
+  "description": "استودیوی تبدیل متن به صوت روان فارسی با هوش مصنوعی Gemini 3.8 Flash TTS، اصلاح تلفظ و رفع غلط‌های املایی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
